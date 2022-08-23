@@ -6,7 +6,7 @@
 
 ![](GESTIONAMBIENTAL.jpg)
 
-<img src="GESTIONAMBIENTAL.jpg" alt="GESTIONAMBIENTAL" Stylr="width:50px;height:50px;">
+<img src="GESTIONAMBIENTAL.jpg" alt="GESTIONAMBIENTAL" Style="width:75px;height:75px;">
 
 ## Áreas de Interés
 1. Cambio Climático
