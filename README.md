@@ -1,6 +1,7 @@
 # Perfil Académico
 
 **Nombre**: Valentina Rodríguez Fallas
+
 **Profesión**: Salud Ambiental y Ciencias Políticas
 
 ![](GESTIONAMBIENTAL.jpg)
