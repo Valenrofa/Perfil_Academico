@@ -6,9 +6,10 @@
 ## Áreas de Interés
 1. Cambio Climático
 2. Recurso Hídrico
-3. Governanza
+3. Gobernanza
 4. Gestión Comunitaria
 5. Filosofía política y ambiental
+6. Gestión de Riesgos
 
 ## Trabajos Realizados
 - Aistente de Investigación en Proyecto de Salud COmunitaria en Drake
