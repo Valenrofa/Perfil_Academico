@@ -14,5 +14,6 @@
 ## Trabajos Realizados
 - Aistente de Investigación en Proyecto de Salud COmunitaria en Drake
 - Comisión Nacional de Emergencias y Ministerio de Salud 
-    *Atención a la pandemia del Covid-19
+    * Atención a la pandemia del Covid-19
 - Asesorías Ambientales en gestión ambiental y de riesgos
+
