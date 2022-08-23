@@ -3,8 +3,6 @@
 **Nombre**: Valentina Rodríguez Fallas
 **Profesión**: Salud Ambiental y Ciencias Políticas
 
-![](https://github.com/Valenrofa/Perfil_Academico/blob/main/imagen-principal-sistema-de-gestion-ambiental.jpg)
-
 ## Áreas de Interés
 1. Cambio Climático
 2. Recurso Hídrico
