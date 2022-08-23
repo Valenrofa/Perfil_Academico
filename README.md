@@ -3,6 +3,8 @@
 **Nombre**: Valentina Rodríguez Fallas
 **Profesión**: Salud Ambiental y Ciencias Políticas
 
+![](GESTIONAMBIENTAL.J)
+
 ## Áreas de Interés
 1. Cambio Climático
 2. Recurso Hídrico
